@@ -1,11 +1,8 @@
+Download:
 
-Run tests from terminal:
+`git clone https://github.com/RamVadranam/calculator`
 
-without main module `__name__ == '__main__':`
-
-`python -m unittest tests/unit/test_calculator.py`
-
-with main module `__name__ == '__main__':`
+Run unit tests from terminal:
 
 `python -m tests/unit/test_calculator.py`
 
